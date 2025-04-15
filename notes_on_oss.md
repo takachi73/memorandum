@@ -10,3 +10,4 @@
 7. Invisible Labor: The Backbone of Open Source Software https://arxiv.org/abs/2503.13405
 8. Realigning Incentives to Build Better Software: a Holistic Approach to Vendor Accountability https://arxiv.org/abs/2504.07766
 9. Navigating Uncertainties: Understanding How GenAI Developers Document Their Models on Open-Source Platforms https://arxiv.org/abs/2503.23574
+10. Open source software and global entrepreneurship https://www.sciencedirect.com/science/article/pii/S0048733323001300
