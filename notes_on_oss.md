@@ -7,3 +7,6 @@
 4. The Growing Influence of Open-Source Software https://www.hp.com/us-en/shop/tech-takes/open-source-software-influence
 5. Why do companies like Google and Microsoft create open-source projects? https://www.reddit.com/r/opensource/comments/1btgd99/why_do_companies_like_google_and_microsoft_create/?rdt=64613
 6. Why do companies contribute to open source? https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/
+7. Invisible Labor: The Backbone of Open Source Software https://arxiv.org/abs/2503.13405
+8. Realigning Incentives to Build Better Software: a Holistic Approach to Vendor Accountability https://arxiv.org/abs/2504.07766
+9. Navigating Uncertainties: Understanding How GenAI Developers Document Their Models on Open-Source Platforms https://arxiv.org/abs/2503.23574
